@@ -6,14 +6,14 @@
 // }
 // console.log(ovozlar(upvotes, downvotes));
 
-// let son = +prompt("son kiriting");
-// function negativ(son) {
-//   if (son) {
-//     let result = "-" + son;
-//     return result;
-//   }
-// }
-// console.log(negativ(son));
+let son = +prompt("son kiriting");
+function negativ(son) {
+  if (son) {
+    let result = "-" + son;
+    return result;
+  }
+}
+console.log(negativ(son));
 
 // let user = {
 //   ism: "Ikrom",
